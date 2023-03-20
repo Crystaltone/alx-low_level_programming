@@ -1,4 +1,7 @@
-/* Program to print with printf function. */
+/**
+ * main - Entry point
+ * return: Always 0
+ */
 #include <stdio.h>
 int main(void)
 	{
